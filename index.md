@@ -72,6 +72,24 @@ page_sections:
     Nullam a eleifend sapien. Fusce tincidunt sapien ut est ullamcorper finibus. Quisque
     molestie massa vel nisl blandit, eget vehicula neque ullamcorper. Maecenas malesuada
     tortor non diam elementum dictum.. \U0001F447"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: Nam cursus metus lectus, sed semper purus accumsan sed. Cras in imperdiet
+      metus. Phasellus a iaculis odio. Aliquam in dignissim dolor, nec euismod purus.
+      Duis fringilla est a nulla ultrices, non feugiat orci congue. Nunc ut suscipit
+      elit. Etiam ac metus neque. Vivamus condimentum pharetra nisl. Nullam a eleifend
+      sapien. Fusce tincidunt sapien ut est ullamcorper finibus. Quisque molestie
+      massa vel nisl blandit, eget vehicula neque ullamcorper. Maecenas malesuada
+      tortor non diam elementum dictum.
+  col_2:
+    content: Fusce ac congue libero. Suspendisse metus eros, tempor nec dapibus eget,
+      facilisis sit amet magna. Mauris et est iaculis, dignissim lorem eget, aliquet
+      sem. Phasellus a arcu aliquet enim molestie elementum. Suspendisse nulla turpis,
+      lacinia at blandit ut, semper a sapien. Vestibulum et ligula vitae urna consectetur
+      hendrerit. Duis vitae risus imperdiet, imperdiet ligula eu, feugiat felis. Ut
+      malesuada hendrerit tincidunt. Pellentesque id purus pulvinar, pellentesque
+      ipsum at, fringilla sapien.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
