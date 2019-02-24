@@ -54,9 +54,24 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam scelerisque
+    lobortis dictum. Sed leo velit, bibendum ut sem sit amet, semper laoreet augue.
+    Etiam a elementum massa. Nulla rhoncus sit amet ligula ac mollis. Donec cursus
+    sagittis dui, non tristique ante efficitur vitae. Integer ac nulla vitae turpis
+    aliquet dictum a eget magna. Aliquam non lectus nibh. Maecenas eleifend, libero
+    vel molestie placerat, augue tellus mattis turpis, dapibus imperdiet tortor diam
+    et velit. Pellentesque pretium ante risus, id laoreet urna malesuada sit amet.
+    Aliquam erat volutpat. Donec sed est feugiat, luctus ante ac, vulputate leo. Morbi
+    euismod sed libero vulputate rhoncus. Nulla tincidunt, ipsum ut aliquet tincidunt,
+    nulla metus facilisis purus, non ultrices metus neque quis nisl. Ut suscipit,
+    metus ac lobortis varius, dui mauris auctor sapien, eget blandit turpis ante luctus
+    nisi. Nam a mattis diam. Nam cursus metus lectus, sed semper purus accumsan sed.
+    Cras in imperdiet metus. Phasellus a iaculis odio. Aliquam in dignissim dolor,
+    nec euismod purus. Duis fringilla est a nulla ultrices, non feugiat orci congue.
+    Nunc ut suscipit elit. Etiam ac metus neque. Vivamus condimentum pharetra nisl.
+    Nullam a eleifend sapien. Fusce tincidunt sapien ut est ullamcorper finibus. Quisque
+    molestie massa vel nisl blandit, eget vehicula neque ullamcorper. Maecenas malesuada
+    tortor non diam elementum dictum.. \U0001F447"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
