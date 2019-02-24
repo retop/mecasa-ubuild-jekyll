@@ -90,6 +90,15 @@ page_sections:
       hendrerit. Duis vitae risus imperdiet, imperdiet ligula eu, feugiat felis. Ut
       malesuada hendrerit tincidunt. Pellentesque id purus pulvinar, pellentesque
       ipsum at, fringilla sapien.
+  col_3:
+    content: Integer a interdum lorem, quis tristique felis. Cras commodo sem metus.
+      Vivamus imperdiet id tortor ut suscipit. Suspendisse commodo orci dui, ac rhoncus
+      lorem auctor id. Aenean eget tortor ut lorem accumsan elementum. Etiam eros
+      magna, pulvinar ac tempor ut, vehicula et nibh. Nullam sed magna vel tortor
+      congue accumsan. Ut vel ante in ex ornare sagittis. Phasellus sem sem, cursus
+      sit amet felis sit amet, accumsan lobortis quam. Proin gravida id quam sed mollis.
+      Aenean sed ex sed sapien gravida sollicitudin vel nec odio. In hac habitasse
+      platea dictumst.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
